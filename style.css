@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+h1{
+    font-size: xx-large;
+    background-color: lightpink;
+    color: black;
+    text-align: center;
+    margin: -4px;
+    padding: 10px;
+}
+section{
+    background-color:white;
+    margin-top: 30px;
+    margin: 40px;
+    border-radius: 10px;
+}
+p{
+    color: palevioletred;
+
+}
+p,li{
+    font-size: xx-large;
+}
